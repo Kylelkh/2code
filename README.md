@@ -38,12 +38,12 @@ var url = `你的路径/2code_php/url_html.php?id=${id}`;
 
 ### 效果演示:
 
-[点击](//jxjweb.gz01.bdysite.com/2code/2code_web/index.html)
+[点击](//2code.bnuzcloud.cn/index.html)
 
 
 ### 完整代码:
 
-[github](//github.com/jxj322991/2code)
+[github](//github.com/kylelkh/2code)
 
 ### TODO
 
