@@ -38,7 +38,7 @@ var url = `你的路径/2code_php/url_html.php?id=${id}`;
 
 ### 效果演示:
 
-[点击](//2code.bnuzcloud.cn/index.html)
+[点击](http://2code.bnuzcloud.cn/index.html)
 
 
 ### 完整代码:
